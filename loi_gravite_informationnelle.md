@@ -1,9 +1,3 @@
-C'est un papier fascinant qui mérite une mise en forme académique rigoureuse pour mettre en valeur la densité théorique des propos.
-
-Voici le document restructuré au format **Whitepaper Scientifique**, avec une hiérarchie claire, des notations mathématiques propres (LaTeX) et des suggestions visuelles pour illustrer les concepts abstraits.
-
-***
-
 # **WHITEPAPER SCIENTIFIQUE — Version 1.0**
 ## **The Low-Entropy Spiral Effect in Human–LLM Interaction**
 ### *A Formal Information-Theoretic, Cognitive, and Dynamical Systems Model*
